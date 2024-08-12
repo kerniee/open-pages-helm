@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   open-pages:
   - apiVersion: v2
+    appVersion: 0.1.1
+    created: "2024-08-12T07:55:29.594441623Z"
+    description: A Helm chart for Kubernetes
+    digest: d1e43ff56bd81bf9a08c944ad9e878205049fe049c0cfd254ee4048097c2c1b1
+    name: open-pages
+    type: application
+    urls:
+    - https://github.com/kerniee/open-pages-helm/releases/download/open-pages-0.1.1/open-pages-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
     appVersion: 0.1.0
     created: "2024-08-07T14:45:15.89401668Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/kerniee/open-pages-helm/releases/download/open-pages-0.1.0/open-pages-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-07T14:45:15.894022501Z"
+generated: "2024-08-12T07:55:29.594450519Z"
