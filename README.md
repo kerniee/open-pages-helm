@@ -1,6 +1,6 @@
 # Open Pages - Helm chart
 
-Helm chart for deploying Open Pages to Kubernetes. See Open Pages repo for more information.
+Helm chart for deploying Open Pages to Kubernetes. See [Open Pages](https://github.com/kerniee/open-pages) repo for more information.
 
 ## Deploy
 
